@@ -1,4 +1,2 @@
-*.pdf
-*.class
-*.zip
-/mainproject
+*
+!./*/src
